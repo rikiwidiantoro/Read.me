@@ -1,1 +1,1 @@
-# Read.me
+Fresh Graduate 2022 S1 Teknik Informatika di Universitas Muhammadiyah Ponorogo. Keahlian/skills bidang Web Development, portofolio projek yang telah saya buat dapat dilihat di repository Github : https://github.com/rikiwidiantoro Atau di web portofolio saya : https://rikiwidiantoro.github.io
