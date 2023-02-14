@@ -4,4 +4,4 @@ Fresh Graduate S1 Teknik Informatika di Universitas Muhammadiyah Ponorogo. Keahl
 - Bootstrap, Materialize, Laravel, jQuery, React js, Node js
 - Restfull API, Git, XAMPP, Postman
 
-kunjungi [Website Portofolio](https://rikiwidiantoro.github.io) dan profile [LinkedIn](https://linkedin.com/in/rikiwidiantoro/) saya.
+kunjungi [Website Portofolio](https://rikiwidiantoro.github.io), profile [LinkedIn](https://linkedin.com/in/rikiwidiantoro) dan profile [Showcase](https://rikiwidiantoro.showwcase.com) saya.
